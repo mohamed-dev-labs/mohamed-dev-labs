@@ -1,80 +1,89 @@
 # Mohammed
-### Software Developer | Open Source Enthusiast
+### Junior Developer
 
 ---
 
-### Professional Overview
-I am Mohammed, a developer focused on exploring the vast landscape of programming languages and modern cloud infrastructures. I specialize in building applications using JavaScript and Python while maintaining a deep curiosity for esoteric and historical computing paradigms.
+### Professional Summary
+I am Mohammed, a dedicated Junior Developer with a focus on building scalable applications and exploring a wide array of programming technologies. I specialize in JavaScript and Python, with a strong interest in Cloud infrastructure and AI-driven development.
 
-* **Status:** Junior Developer
-* **Favorite IDEs:** VS Code, Cursor, Terraform, Anti-gravity
-* **Primary Environment:** Linux (Ubuntu), Terminal, CLI
+* **Primary Language:** JavaScript
+* **Primary Framework:** Node.js
+* **Preferred Environment:** Linux (Ubuntu), Terminal, CLI
 
 ---
 
-### Core Tech Stack
+### Core Languages & Data
 <div align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Vanilla_JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Vanilla JS" />
+  <img src="https://img.shields.io/badge/Vanilla_JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Vanilla JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </div>
 
-### Frameworks & UI
+---
+
+### Frameworks & Libraries
 <div align="left">
-  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React.js" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
 </div>
 
-### Cloud & DevOps
+---
+
+### Cloud, DevOps & Hosting
 <div align="left">
   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Hostinger-673AB7?style=for-the-badge&logo=hostinger&logoColor=white" alt="Hostinger" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
 </div>
 
-### AI & Development Productivity Tools
+---
+
+### AI Tools & Platforms
 <div align="left">
   <img src="https://img.shields.io/badge/Gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
   <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
-  <img src="https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white" alt="Replit" />
   <img src="https://img.shields.io/badge/Lovable-FF4F81?style=for-the-badge" alt="Lovable" />
+  <img src="https://img.shields.io/badge/Manas-000000?style=for-the-badge" alt="Manas" />
   <img src="https://img.shields.io/badge/Bolt-000000?style=for-the-badge" alt="Bolt" />
+  <img src="https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white" alt="Replit" />
   <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
 </div>
 
 ---
 
-### Full Programming Language Index
-Comprehensive list of languages and systems I explore and utilize:
-
-**Systems & Modern Languages:**
-C++, C#, Go, PHP, Swift, Kotlin (Kotlen), Lua, Stack, Data, All'alba.
-
-**Infrastructure & Hosting:**
-Hostinger, Vercel, GitHub, GitLab, Hugging Face, Open Source, Google Cloud, Amazon AWS, Firebase, Firebase Hosting, Docker, Git.
-
-**Specialized & Esoteric (Full List):**
-Eiffel, OCaml, Standard ML, ActionScript, Tcl, AWK, Sed, Forth, PostScript, Logo, Racket, D, Vala, Common Lisp, CoffeeScript, Haxe, Modula-2, Oberon, Simula, ABAP, RPG, PL/I, BCPL, B, LabVIEW, Verilog, VHDL, Cylix, Q#, Cirq, Ballerina, WebAssembly (Wasm), Hack, XQuery, XPath, JScript, VBScript, AutoHotkey, AutoLISP, ClojureScript, Elm, PureScript, Idris, Agda, Coq, Apex, GML, GDScript, Processing, Brainfuck, Mojo, Carbon, Val, Koka, Lean, Zsh, Fish, AppleScript, ActionScript 3.0, ColdFusion (CFML), Falcon, Icon, Unicon, Pike, Rexx, Object REXX, J, K, APL, BQN, Mercury, Oz, Alice, Curry, Nemerle, Boo, Fantom, Xojo, Gambas, Euphoria, Ring, SuperCollider, ChucK, Faust, OpenCL, CUDA, GLSL, HLSL, Whitespace, INTERCAL, Piet, Chef, ArnoldC, Malbolge, Befunge, Cow, Shakespeare, Inform, TADS, CLIPS, Pop-11, Dylan, Self, NewtonScript, Cecil, Lava, Lush, Mirah, Nu, Picolisp, QuakeC, Rebol, Red, S-Lang, Turing, Zeno, Alef, Limbo, Newsqueak, Charm, Clean, Dora, Felix, Ferite, Heron, Io, Ioke, Joy, Kite, Lisaac, Mesa, Modula-3, Nice, Oak, Opal, ParaSail, Pizza, Rapira, Seed7, Sather, Slate, Tom, Urbi, X10, Z++, ZPL.
-
-**Technical & Historical:**
-A+, Analytica, AutoIt, Basic4ppc, Caché ObjectScript, Ch, CHILL, Clarion, Clipper, COMAL, Curl, DIBOL, E, Ease, EPL, Escher, Esterel, Euclid, Expresso, FOCUS, Frink, GAMS, Gnuplot, IDL, JOSS, JOVIAL, Lustre, Magik, Maple, Mathematica, Max, MUMPS, NATURAL, NetLogo, Occam, OpenEdge ABL, PILOT, Plankalkül, PL/M, Pure Data, Ratfor, SAIL, SAS, SPARK, SPITBOL, Squeak, Atheji, Ateji PX, Axum, BeanShell, Bertrand, Bistro, Blue, Bon, Boulevard, C--, Caché, Caml, Cayenne, Cilk, Clay, Common Intermediate Language, Component Pascal, Constraint Handling Rules, Coral 66, Cython, Deesel, Dog, Dscript, EGL, Elastic, Elf, Emacs Lisp, Epigram, F-Script, Factor, Fjölnir, FL, Flavors, Flow-Matic, Forms/3, G-code, George, Gosu, HAL/S, High Level Assembly, Hope, Hugo, Hume, HyperTalk, ICI, Interpress, ISWIM, JADE, JAL, Janus, JCL, Jingle, JOL, KWC, Lasso, LFE, Lingo, LPC, LSE, LYaPAS, M2001, Mary, MDL, MicroScript, Moby, Model 204, MOO, Moto, Muf, NESL, Nial, Nomad, Not Quite C, NSIS, NWScript, Obliq, Onyx, Oriel, Orc, PCASTL, PCF, PDL, PPL, PROIV, Proteus, Pure, Q, Reia, ROOP, S2, S3, Scilab, SETL, Simplex, SOL.
+### Systems & Tools
+* **Operating Systems:** Linux (Ubuntu)
+* **IDEs:** VS Code, Cursor, Terraform (Terraser), Anti-gravity
+* **Command Line:** Terminal, CLI Tools, Zsh/Bash, Git
+* **Other:** Open Source, Data Analysis, All'alba, Klenon (Klenon), Stack.
 
 ---
 
-### GitHub Activity
+---
+
+### GitHub Statistics
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true" alt="Stats" />
   <br />
@@ -83,13 +92,5 @@ A+, Analytica, AutoIt, Basic4ppc, Caché ObjectScript, Ch, CHILL, Clarion, Clipp
 
 ---
 <div align="center">
-  <sub>Managed by Mohammed - Developer</sub>
+  <sub>Generated for Mohammed</sub>
 </div>
-
-
-
-
-
-
-
-
