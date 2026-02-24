@@ -79,18 +79,6 @@ I am Mohammed, a dedicated Junior Developer with a focus on building scalable ap
 * **Command Line:** Terminal, CLI Tools, Zsh/Bash, Git
 * **Other:** Open Source, Data Analysis, All'alba, Klenon (Klenon), Stack.
 
----
-
----
-
-### GitHub Statistics
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true" alt="Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true" alt="Languages" />
-</div>
-
----
 <div align="center">
   <sub>Generated for Mohammed</sub>
 </div>
