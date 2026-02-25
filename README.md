@@ -75,7 +75,7 @@ I am Mohammed, a dedicated Junior Developer with a focus on building scalable ap
 
 ### Systems & Tools
 * **Operating Systems:** Linux (Ubuntu)
-* **IDEs:** VS Code, Cursor, Terraform (Terraser), Anti-gravity
+* **IDEs:** VS Code, Cursor, 
 * **Command Line:** Terminal, CLI Tools, Zsh/Bash, Git
 * **Other:** Open Source, Data Analysis, All'alba, Klenon (Klenon), Stack.
 
